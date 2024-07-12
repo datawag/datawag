@@ -1,7 +1,7 @@
 # Hi there, I'm Michael Bowie 👋
 
 ## About Me
-I'm @mbowie85, currently transitioning my career from medicine into the field of DevOps or predictive AI
+I'm @datawag, currently transitioning my career from medicine into the field of DevOps or predictive AI
 
 - 👀 **I’m interested in:** DevOps, programming, predictive data analytics, generative AI, and healthcare technology.
 - 🌱 **I’m currently learning:** Computer science and Python (broad, I know)
